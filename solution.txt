@@ -1,5 +1,3 @@
-Please add your pseudocode to this file
-
 function consecutiveSubstrings(string):
     result = empty array
     
